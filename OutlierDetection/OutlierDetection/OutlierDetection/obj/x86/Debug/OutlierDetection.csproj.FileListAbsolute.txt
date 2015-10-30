@@ -1,0 +1,15 @@
+c:\users\user\documents\visual studio 2010\Projects\OutlierDetection\OutlierDetection\bin\Debug\OutlierDetection.exe
+c:\users\user\documents\visual studio 2010\Projects\OutlierDetection\OutlierDetection\bin\Debug\OutlierDetection.pdb
+c:\users\user\documents\visual studio 2010\Projects\OutlierDetection\OutlierDetection\obj\x86\Debug\OutlierDetection.exe
+c:\users\user\documents\visual studio 2010\Projects\OutlierDetection\OutlierDetection\obj\x86\Debug\OutlierDetection.pdb
+C:\Users\user\documents\visual studio 2010\Projects\OutlierDetection\OutlierDetection\obj\x86\Debug\OutlierDetection.csprojResolveAssemblyReference.cache
+C:\Users\user\SkyDrive\文档\OutlierDetection\OutlierDetection\obj\x86\Debug\OutlierDetection.exe
+C:\Users\user\SkyDrive\文档\OutlierDetection\OutlierDetection\obj\x86\Debug\OutlierDetection.pdb
+C:\Users\user\SkyDrive\文档\OutlierDetection\OutlierDetection\bin\Debug\OutlierDetection.exe
+C:\Users\user\SkyDrive\文档\OutlierDetection\OutlierDetection\bin\Debug\OutlierDetection.pdb
+C:\Users\user\SkyDrive\文档\OutlierDetection\OutlierDetection\obj\x86\Debug\OutlierDetection.csprojResolveAssemblyReference.cache
+C:\Users\MarinYoung\OneDrive\文档\OutlierDetection\OutlierDetection\obj\x86\Debug\OutlierDetection.exe
+C:\Users\MarinYoung\OneDrive\文档\OutlierDetection\OutlierDetection\obj\x86\Debug\OutlierDetection.pdb
+C:\Users\MarinYoung\OneDrive\文档\OutlierDetection\OutlierDetection\bin\Debug\OutlierDetection.exe
+C:\Users\MarinYoung\OneDrive\文档\OutlierDetection\OutlierDetection\bin\Debug\OutlierDetection.pdb
+C:\Users\MarinYoung\OneDrive\文档\OutlierDetection\OutlierDetection\obj\x86\Debug\ResolveAssemblyReference.cache

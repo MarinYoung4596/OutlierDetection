@@ -1,0 +1,5 @@
+C:\Users\user\SkyDrive\文档\OutlierAnalysis\OutlierAnalysis\obj\x86\Debug\OutlierAnalysis.csprojResolveAssemblyReference.cache
+C:\Users\user\SkyDrive\文档\OutlierAnalysis\OutlierAnalysis\bin\Debug\OutlierAnalysis.exe
+C:\Users\user\SkyDrive\文档\OutlierAnalysis\OutlierAnalysis\bin\Debug\OutlierAnalysis.pdb
+C:\Users\user\SkyDrive\文档\OutlierAnalysis\OutlierAnalysis\obj\x86\Debug\OutlierAnalysis.exe
+C:\Users\user\SkyDrive\文档\OutlierAnalysis\OutlierAnalysis\obj\x86\Debug\OutlierAnalysis.pdb

@@ -1,0 +1,77 @@
+2014-05-23 11:10:18,066 logger       INFO     N = 200	kNN = 100	topK = 50
+
+2014-05-23 11:10:18,067 logger       INFO     Sampling: get the top 200 points from source file...
+
+2014-05-23 11:10:22,832 logger       INFO     Loading source file...
+
+2014-05-23 11:10:22,876 logger       INFO     Feature selection...	RunTime 0
+
+2014-05-23 11:10:23,139 logger       INFO     Calculate distance matrix	RunTime 1
+
+2014-05-23 11:10:37,295 logger       INFO     Saving data...
+
+2014-05-23 11:10:37,295 logger       INFO     FastABOD	START 14-05-23 11:10:22	END 14-05-23 11:10:37	RunTime 15
+
+2014-05-23 11:10:37,296 logger       INFO     Loading source file...
+
+2014-05-23 11:10:37,308 logger       INFO     Feature selection...	RunTime 0
+
+2014-05-23 11:10:37,502 logger       INFO     Calculate distance matrix	RunTime 0
+
+2014-05-23 11:11:25,037 logger       INFO     Saving data...
+
+2014-05-23 11:11:25,038 logger       INFO     LB-ABOD	START 14-05-23 11:10:37	END 14-05-23 11:11:25	RunTime 48
+
+2014-05-23 11:11:25,040 logger       INFO     Loading source file...
+
+2014-05-23 11:11:25,056 logger       INFO     Feature selection...	RunTime 0
+
+2014-05-23 11:11:25,295 logger       INFO     Calculate distance matrix	RunTime 0
+
+2014-05-23 11:12:20,913 logger       INFO     Sorting ABOF list...
+
+2014-05-23 11:12:20,914 logger       INFO     Saving data...
+
+2014-05-23 11:12:20,914 logger       INFO     ABOD	START 14-05-23 11:11:25	END 14-05-23 11:12:20	RunTime 55
+
+2014-05-23 11:21:26,795 logger       INFO     N = 200	kNN = 100	topK = 50
+
+2014-05-23 11:21:26,796 logger       INFO     Sampling: get the top 200 points from source file...
+
+2014-05-23 11:21:30,149 logger       INFO     Loading source file...
+
+2014-05-23 11:21:30,170 logger       INFO     Feature selection...	RunTime 0
+
+2014-05-23 11:21:30,384 logger       INFO     Calculate distance matrix	RunTime 0
+
+2014-05-23 11:22:17,643 logger       INFO     Saving data...
+
+2014-05-23 11:22:17,644 logger       INFO     LB-ABOD	START 14-05-23 11:21:30	END 14-05-23 11:22:17	RunTime 47
+
+2014-05-23 11:37:04,331 logger       INFO     N = 200	kNN = 100	topK = 50
+
+2014-05-23 11:37:04,331 logger       INFO     Sampling: get the top 200 points from source file...
+
+2014-05-23 11:37:16,299 logger       INFO     Loading source file...
+
+2014-05-23 11:37:16,326 logger       INFO     Feature selection...	RunTime 0
+
+2014-05-23 11:37:16,556 logger       INFO     Calculate distance matrix	RunTime 0
+
+2014-05-23 11:38:03,309 logger       INFO     Saving data...
+
+2014-05-23 11:38:03,309 logger       INFO     LB-ABOD	START 14-05-23 11:37:16	END 14-05-23 11:38:03	RunTime 47
+
+2014-05-26 10:09:31,453 logger       INFO     N = 200	kNN = 100	topK = 50
+
+2014-05-26 10:09:31,469 logger       INFO     Sampling: get the top 200 points from source file...
+
+2014-05-26 10:09:35,755 logger       INFO     Loading source file...
+
+2014-05-26 10:09:35,790 logger       INFO     Feature selection...	RunTime 0
+
+2014-05-26 10:09:35,980 logger       INFO     Calculate distance matrix	RunTime 0
+
+2014-05-26 10:10:21,251 logger       INFO     Saving data...
+
+2014-05-26 10:10:21,252 logger       INFO     LB-ABOD	START 14-05-26 10:09:35	END 14-05-26 10:10:21	RunTime 46
