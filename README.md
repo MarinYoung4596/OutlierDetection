@@ -25,7 +25,7 @@ To better understand the program in folder [OutlierDetection], please read the f
 
 
 ##Notes
-Any more questions, please feel free to contact me in email. marinyoung(at)163.com
+Any more questions, please feel free to contact me :-). marinyoung(at)163.com
   [1]: https://github.com/MarinYoung4596/OutlierDetection/tree/master/OutlierDetection/GenerateRandomDatabase
   [2]: https://github.com/MarinYoung4596/OutlierDetection/tree/master/OutlierDetection/OutlierDetection
   [3]: https://github.com/MarinYoung4596/OutlierDetection/tree/master/OutlierDetection/OutlierAnalysis
