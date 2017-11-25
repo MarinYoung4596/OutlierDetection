@@ -6,7 +6,7 @@ This is an program for outlier Detection.
 This project consist of 4 sub-projects, named,
 
  1. [Generate Random Databse][1]
- 2. [Outlier Detection][2]
+ 2. [Outlier Detection Algorithm][2]
  3. [Outlier Analysis][3]
  4. [Python Implementation][4]
 
@@ -16,29 +16,40 @@ We **implement** all these algorithms in Visual Studio 2013 based on C# programm
 
 ##Techniques Details
 1. Distance Based Approach
+
 ![DBOD][5]
+
 2. Density Based Method
+
 ![LOF_1][6]
 ![LOF_2][7]
+
 3. Angle Based Algorithm
+
 ![ABOD_1][8]
 ![ABOD_2][9]
 ![ABOF][10]
+
 ##Statistical Results
 1. Precision
+
 ![FastABOD_Precision_Dimension][11]
 ![LBABOD_Precision_Dimension][12]
 ![Precision_Dimension_N500][13]
 ![Precision_Dimension_N1000][14]
+
 2. Dimension
+
 ![Time_D_ABOD_LBABOD][15]
 ![Time_D_FastABOD][16]
 ![Time_D_LOF][17]
+
 3. CPU Time
+
 ![LBABOD_Time_D][18]
  
 
-##References
+## References
 
 To better understand the program in folder [OutlierDetection], please read the following papers:
 
@@ -46,7 +57,7 @@ To better understand the program in folder [OutlierDetection], please read the f
  2. [Outlier Detection Techniques][20](p.s. You may find this documents is helpful to you. enjoy :-) )
 
 
-##Notes
+## Notes
 Any more questions, please feel free to contact me :-). marinyoung(at)163.com
 
 
